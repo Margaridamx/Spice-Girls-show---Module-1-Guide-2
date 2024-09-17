@@ -14,12 +14,6 @@ h2 {
 }
 
 
-p {
-    display: flex;
-    justify-content:space-between;
-    align-content: center;
-}
-
 a{
     color: black;
     font-size: large;
